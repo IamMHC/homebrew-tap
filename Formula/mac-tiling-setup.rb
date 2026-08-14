@@ -1,8 +1,8 @@
 class MacTilingSetup < Formula
   desc "Keyboard-driven tiling desktop for macOS: AeroSpace, SketchyBar, JankyBorders"
   homepage "https://github.com/IamMHC/mac-tiling-setup"
-  url "https://github.com/IamMHC/mac-tiling-setup/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "23ed87922bf8576b35104e98283628e028d308501e58551a7c84910ffb4986da"
+  url "https://github.com/IamMHC/mac-tiling-setup/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "42bf36c1c99594ddaf1a618bb4fcedac96f1ed6fde4595c3fd39e55ae121e935"
   license "MIT"
 
   depends_on "felixkratz/formulae/borders"
